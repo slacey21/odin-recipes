@@ -1,4 +1,36 @@
+ body {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     background-color: white;
+ }
+ 
+ .home-header {
+     text-align: center;
+ }
+ 
  .icon {
      height: auto;
-     width: 25px;
+     width: 50px;
+ }
+ 
+ .link {
+     background-color: rgb(224, 255, 255, 0.7);
+     align-items: center;
+     width: 50px;
+     height: 50px;
+     border-radius: 100%;
+     display: inline-block;
+ }
+ 
+ .Odin {
+     height: auto;
+     width: 350px;
+ }
+ 
+ .Odin-box {
+     text-align: center;
+ }
+ 
+ .recipes {
+     text-align: center;
+     align-items: center;
  }
