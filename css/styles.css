@@ -3,7 +3,21 @@
      background-color: white;
  }
  
- .home-header {
+ hr {
+     size: 3px;
+ }
+ 
+ h2 {
+     color: rgba(35, 44, 35, 0.699);
+ }
+ 
+ .recipe-body {
+     background-color: rgb(224, 255, 255, 0.7);
+ }
+ 
+ .home-header,
+ h1,
+ h3 {
      text-align: center;
  }
  
@@ -21,12 +35,13 @@
      display: inline-block;
  }
  
- .Odin {
+ .Odin,
+ .recipe-image {
      height: auto;
      width: 350px;
  }
  
- .Odin-box {
+ .image-block {
      text-align: center;
  }
  
